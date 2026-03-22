@@ -5,6 +5,8 @@ using namespace std;
 int partition(int num[], int in, int f);
 int pasos = 0;
 int pasosciclo = 0;
+void quickSort(int num[], int in, int f);
+
 
 void quickSort(int num[], int in, int f) {
 	pasos++;

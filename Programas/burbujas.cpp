@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 
 
 using namespace std;
@@ -19,7 +19,7 @@ int main(){
                                 pasos+=3;
                         }
                 pasosciclo++;
-    		}            
+  		}            
         pasos++;
         }
 
@@ -37,3 +37,4 @@ int main(){
 return 0;
 
 }
+
